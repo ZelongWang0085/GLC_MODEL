@@ -1,0 +1,5 @@
+tensroflow==1.13.1
+
+keras==2.2.4
+
+htpy==2.10.0

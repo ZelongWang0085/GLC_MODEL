@@ -1,15 +1,15 @@
 1.python convert_labels.py
 
-把图片切分成256*256大小的文件，并且生成label标签
+Cut the image into 256*256 size files, and generate label labels
 
 2.python gen_train_test_list.py
 
-把图片按照8：2生成训练集和测试集
+Cut the image according to 8:2 Generate training set and test set
 
 3.python unet.py
 
-训练代码
+Training code
 
 4.predict.py
 
-查看代码预测的图
+View code prediction graph
